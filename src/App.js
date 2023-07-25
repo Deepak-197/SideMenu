@@ -14,6 +14,8 @@ const Courses2 = () => <h1>Content/Courses 2</h1>;
 const Videos2 = () => <h1>Content/Videos 2</h1>;
 const Design2 = () => <h1>Design 2</h1>;
 
+
+
 function App() {
   const [inactive, setInactive] = useState(false);
 
